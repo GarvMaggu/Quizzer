@@ -1,88 +1,88 @@
 [
     {   
-        "1": "WHERE IS WAKANDA LOCATED?",
-        "2": "WHAT IS THE NAME OF THE MARVEL COMIC LEGEND WHO HAS MADE AN APPEARANCE IN ALL THE FILMS OF THE MARVEL CINEMATIC UNIVERSE?",
-        "3": "THOR’S HAMMER MJÖLNIR IS MADE OF METAL FROM THE HEART OF A DYING WHAT?",
-        "4": "WHAT IS THE NAME OF THE VILLAIN IN ANT-MAN?",
-        "5": "WHAT IS THE NAME OF THE SET OF DOCUMENTS THAT REGULATE THE ACTIVITIES OF ENHANCED PERSONS?",
-        "6": "WHICH AVENGER DOES LOKI BRIEFLY TAKE THE FORM OF IN THOR: THE DARK WORLD?",
-        "7": "WHAT IS THE NAME OF STAR-LORD/PETER QUILL’S MOTHER?",
-        "8": "WHICH OF THE FOLLOWING IS NOT ON CAPTAIN AMERICA’S TO-DO LIST IN CAPTAIN AMERICA: THE WINTER SOLDIER?",
-        "9": "HOW DOES YONDU CONTROL THE YAKA ARROW?",
-        "10": "In the films, what does S.H.I.E.L.D. stand for?"
+        "1": "Process of inserting an element in stack is called ____________",
+        "2": "Process of removing an element from stack is called __________",
+        "3": "In a stack, if a user tries to remove an element from empty stack it is called _________",
+        "4": "Pushing an element into stack already having five elements and stack size of 5, then stack becomes",
+        "5": "Entries in a stack are “ordered”. What is the meaning of this statement?",
+        "6": "Which of the following applications may use a stack?",
+        "7": "What is the value of the postfix expression 6 3 2 4 + – *:",
+        "8": "Assuming int is of 4bytes, what is the size of int arr[15];?",
+        "9": "In general, the index of the first element in an array is __________",
+        "10": "Elements in an array are accessed _____________"
     },
     {
         "1": {
-            "a": "South America",
-            "b": "Africa",
-            "c": "Antarctica",
-            "d": "Australia"
+            "a": "Create",
+            "b": "Push",
+            "c": "Evaluation",
+            "d": "Pop"
         },
         "2": {
-            "a": "Stan Lee",
-            "b": "Kevin Fiege",
-            "c": "Jon Favreau",
-            "d": "Steve Rogers"
+            "a": "Create",
+            "b": "Push",
+            "c": "Evaluation",
+            "d": "Pop"
         },
         "3": {
-            "a": "Asteroid",
-            "b": "Comet",
-            "c": "Star",
-            "d": "Black Hole"
+            "a": "Underflow",
+            "b": "Empty collection",
+            "c": "Overflow",
+            "d": "Garbage Collection"
         },
         "4": {
-            "a": "Scorpion",
-            "b": "Yellowjacket",
-            "c": "Hornet",
-            "d": "Serpent"
+            "a": "Overflow",
+            "b": "Crash",
+            "c": "Underflow",
+            "d": "User flow"
         },
         "5": {
-            "a": "Sokovia Accords",
-            "b": "Wakanda Accords",
-            "c": "Stark Accords",
-            "d": "Paris Accords"
+            "a": "A collection of stacks is sortable",
+            "b": "Stack entries may be compared with the ‘<‘ operation",
+            "c": "The entries are stored in a linked list",
+            "d": "There is a Sequential entry that is one by one"
         },
         "6": {
-            "a": "Hulk",
-            "b": "Captain America",
-            "c": "Iron Man",
-            "d": "Hawkeye"
+            "a": "A parentheses balancing program",
+            "b": "Tracking of local variables at run time",
+            "c": "Compiler Syntax Analyzer",
+            "d": "Data Transfer between two asynchronous process"
         },
         "7": {
-            "a": "Margaret",
-            "b": "Martha",
-            "c": "Meredith",
-            "d": "Madeline"
+            "a": "1",
+            "b": "40",
+            "c": "74",
+            "d": "-18"
         },
         "8": {
-            "a": "Disco",
-            "b": "Thai Food",
-            "c": "Miracle on Ice",
-            "d": "Moon Landing"
+            "a": "15",
+            "b": "19",
+            "c": "11",
+            "d": "60"
         },
         "9": {
-            "a": "By Whistling",
-            "b": "By Flicking his Wrist",
-            "c": "With telepathy",
-            "d": "By winking"
+            "a": "0",
+            "b": "-1",
+            "c": "2",
+            "d": "1"
         },
         "10": {
-            "a": "Supreme Headquarters, International Espionage, Law-Enforcement Division",
-            "b": "Strategic Homeland Intervention, Enforcement and Logistics Division",
-            "c": "Strategic Hazard Intervention Espionage Logistics Directorate",
-            "d": "Superheroes Help In Exciting Logical Display"
+            "a": "randomly",
+            "b": "sequentially",
+            "c": "exponentially",
+            "d": "logarithmically"
         }
     },
     {
-        "1": "Africa",
-        "2": "Stan Lee",
-        "3": "Star",
-        "4": "Yellowjacket",
-        "5": "Sokovia Accords",
-        "6": "Captain America",
-        "7": "Meredith",
-        "8": "Miracle on Ice",
-        "9": "By Whistling",
-        "10": "Strategic Homeland Intervention, Enforcement and Logistics Division"
+        "1": "Push",
+        "2": "Pop",
+        "3": "Underflow",
+        "4": "Overflow",
+        "5": "There is a Sequential entry that is one by one",
+        "6": "Data Transfer between two asynchronous process",
+        "7": "-18",
+        "8": "60",
+        "9": "0",
+        "10": "randomly"
     }
 ]

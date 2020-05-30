@@ -12,15 +12,14 @@ class _homepageState extends State<homepage> {
   List<String> pics = [
     "images/avg.jpg",
     "images/hp.jpg",
-    //"images/sw.jpg",
     "images/pok.jpg",
     "images/nar.jpg",
   ];
   List<String> description = [
-    "How Well Do You Know The Avengers?\nTests for the real fan",
-    "Only True Fans Can Complete This Harry Potter Quiz\nTests both Book and Movie knowledge",
-    "Who's That Pokemon?\nCan you name all the Pokemon? Well here are 10 different Pokemon, and I will give you hints, so you can have an idea of which Pokemon it is. See how well you know about the Pokemon. Good luck!",
-    "The Ultimate Naruto Quiz!\nDo you think you know everything about Naruto? From Naruto to Naruto Shippuden to all its movies and everything in between? Then this quiz will be perfect for you!",
+    "Date: 25 May, 2020\nQuiz Time: 3:30 PM to 3:45 PM\n10 Questions",
+    "Date: 27 May, 2020\nQuiz Time: 4:30 PM to 4:50 PM\n15 Questions",
+    "Date: 29 May, 2020\nQuiz Time: 2:00 PM to 2:15 PM\n11 Questions",
+    "Date: 30 May, 2020\nQuiz Time: 1:30 PM to 1:50 PM\n20 Questions",
   ];
 
   Widget customcard(String qname, String im, String des){
@@ -102,7 +101,7 @@ class _homepageState extends State<homepage> {
     
       appBar: AppBar(
         title: Text(
-          "Quizer",
+          "Hello, 189301000",
         ),
       ),
       
@@ -111,11 +110,10 @@ class _homepageState extends State<homepage> {
       ListView(
         children: <Widget>[
           
-          customcard("Avengers", pics[0], description[0]),
-          customcard("Harry Potter", pics[1], description[1]),
-          //customcard("Star Wars", pics[2], description[2]),
-          customcard("Pokemon", pics[2], description[2]),
-          customcard("Naruto", pics[3], description[3]),
+          customcard("Data Structures", pics[0], description[0]),
+          customcard("OOPJ using Java", pics[1], description[1]),
+          customcard("RDBMS", pics[2], description[2]),
+          customcard("Operating Systems", pics[3], description[3]),
         ],
       ),
       

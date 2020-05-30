@@ -15,13 +15,13 @@ class getjson extends StatelessWidget {
   // sets the asset to a particular JSON file
   // and opens the JSON
   setasset() {
-    if (qname == "Avengers") {
+    if (qname == "Data Structures") {
       assettoload = "assets/avengers.json";
-    }else if(qname == "Harry Potter") {
+    }else if(qname == "OOPJ using Java") {
       assettoload = "assets/harry.json";
-    }else if(qname == "Pokemon") {
+    }else if(qname == "RDBMS") {
       assettoload = "assets/pokemon.json";
-    }else if(qname == "Naruto") {
+    }else if(qname == "Operating Systems") {
       assettoload = "assets/naruto.json";
     }
     assettoload = assettoload.toString();

@@ -1,88 +1,88 @@
 [
     {   
-        "1": "What patronus does Luna Lovegood have?",
-        "2": "Who disguised himself as Mad Eye Moody in The Goblet of Fire?",
-        "3": "What organization did Hermione start in her 4th year?",
-        "4": "What potion did Harry take in order to get Slughorn's memories?",
-        "5": "Who was the first to be stunned by the Basilisk?",
-        "6": "What did Dumbledore leave for Hermione in his will?",
-        "7": "Who did Ron turn into when Harry, Ron, and Hermione snuck into the Ministry of Magic in The Deathly Hallows?",
-        "8": "What magazine does Luna's father publish?",
-        "9": "Who is Harry's godson?",
-        "10": "What was the name of the female elf Dobby liked?"
+        "1": "Which was the first purely object oriented programming language developed?",
+        "2": "Which of the following best defines a class?",
+        "3": "Who invented OOP?",
+        "4": "What is the additional feature in classes that was not in structures?",
+        "5": "Which is not feature of OOP in general definitions?",
+        "6": "Which Feature of OOP illustrated the code reusability?",
+        "7": "Which language does not support all 4 types of inheritance?",
+        "8": "How many classes can be defined in a single program?",
+        "9": "When OOP concept did first came into picture?",
+        "10": "Why Java is Partially OOP language?"
     },
     {
         "1": {
-            "a": "Rabbit",
-            "b": "Lion",
-            "c": "Stag",
-            "d": "Horse"
+            "a": "Java",
+            "b": "C++",
+            "c": "SmallTalk",
+            "d": "Kotlin"
         },
         "2": {
-            "a": "Ernie McMillian",
-            "b": "Severus Snape",
-            "c": "Barty Crouch Jr.",
-            "d": "Barty Crouch Sr."
+            "a": "Parent of an object",
+            "b": "Instance of an object",
+            "c": "Blueprint of an object",
+            "d": "Scope of an object"
         },
         "3": {
-            "a": "Dumbeldore's Army",
-            "b": "Society for the Promotion of Elfish Welfare",
-            "c": "Wizards Against the Dark Arts",
-            "d": "Witches for Equal Rights"
+            "a": "Alan Kay",
+            "b": "Andrea Ferro",
+            "c": "Dennis Ritchie",
+            "d": "Adele Goldberg"
         },
         "4": {
-            "a": "Alihosty Draught",
-            "b": "Essence of Dittany",
-            "c": "Polyjuice Potion",
-            "d": "Felix Felicis"
+            "a": "Data members",
+            "b": "Member functions",
+            "c": "Static data allowed",
+            "d": "Public access specifier"
         },
         "5": {
-            "a": "Hermoine Granger",
-            "b": "Mrs. Norris",
-            "c": "Ginny Weasley",
-            "d": "Colin Creevey"
+            "a": "Code reusability",
+            "b": "Modularity",
+            "c": "Duplicate or Redundant data",
+            "d": "Efficient Code"
         },
         "6": {
-            "a": "An enchanted purse",
-            "b": "The Tales of Beedle the Bard",
-            "c": "A lighter",
-            "d": "A Bezoar"
+            "a": "Polymorphism",
+            "b": "Abstraction",
+            "c": "Encapsulation",
+            "d": "Inheritance"
         },
         "7": {
-            "a": "Reginald Cattermole",
-            "b": "Dirk Cresswell",
-            "c": "Albert Runcorn",
-            "d": "Mundungus Fletcher"
+            "a": "C++",
+            "b": "Java",
+            "c": "Kotlin",
+            "d": "Small Talk"
         },
         "8": {
-            "a": "The Quibbler",
-            "b": "The Daily Prophet",
-            "c": "The Practical Potioneer",
-            "d": "Challenges in Charming"
+            "a": "Only 1",
+            "b": "Only 100",
+            "c": "Only 999",
+            "d": "As many as you want"
         },
         "9": {
-            "a": "Hugo Weasley",
-            "b": "Lorcan Scamander",
-            "c": "Teddy Lupin",
-            "d": "Victorie Weasley"
+            "a": "1970s",
+            "b": "1980s",
+            "c": "1993",
+            "d": "1995"
         },
         "10": {
-            "a": "Winky",
-            "b": "Orist",
-            "c": "Minka",
-            "d": "Oona"
+            "a": "It supports usual declaration of primitive data types",
+            "b": "It doesn’t support all types of inheritance",
+            "c": "It allows code to be written outside classes",
+            "d": "It does not support pointers"
         }
     },
     {
-        "1": "Rabbit",
-        "2": "Barty Crouch Jr.",
-        "3": "Society for the Promotion of Elfish Welfare",
-        "4": "Felix Felicis",
-        "5": "Mrs. Norris",
-        "6": "The Tales of Beedle the Bard",
-        "7": "Reginald Cattermole",
-        "8": "The Quibbler",
-        "9": "Teddy Lupin",
-        "10": "Winky"
+        "1": "SmallTalk",
+        "2": "Instance of an object",
+        "3": "Alan Kay",
+        "4": "Member functions",
+        "5": "Duplicate or Redundant data",
+        "6": "Inheritance",
+        "7": "Java",
+        "8": "As many as you want",
+        "9": "1970s",
+        "10": "It supports usual declaration of primitive data types"
     }
 ]

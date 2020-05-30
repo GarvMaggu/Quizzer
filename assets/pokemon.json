@@ -1,88 +1,88 @@
 [
-    {
-        "1": "Which of the following Pokemon type was not available in GEN-1?",
-        "2": "What item must be obtained in order to catch Lugia in Whirl Islands?",
-        "3": "What is Regigigas' ability?",
-        "4": "Find the odd one out?",
-        "5": "The Elite-Four trainer Shauntal specializes in what type of Pokemons?",
-        "6": "Find the odd one out?",
-        "7": "In Pokemon the anime Sun and Moon, what move did Dusk-Lycanroc used to defeat Lycanroc(Midnight Form) in the Alola league finals?",
-        "8": "An item which evolves Clamperl to Gorebyss when equipped and traded",
-        "9": "What Pokemon type is Corsola?",
-        "10": "Find the odd one out?"
+    {   
+        "1": "A relational database consists of a collection of",
+        "2": "A ________ in a table represents a relationship among a set of values",
+        "3": "The term _______ is used to refer to a row",
+        "4": "The term attribute refers to a ___________ of a table",
+        "5": "For each attribute of a relation, there is a set of permitted values, called the ________ of that attribute",
+        "6": "Database __________ which is the logical design of the database, and the database _______ which is a snapshot of the data in the database at a given instant in time",
+        "7": "Which one of the following is a set of one or more attributes taken collectively to uniquely identify a record?",
+        "8": "Consider attributes ID, CITY and NAME. Which one of this can be considered as a super key?",
+        "9": "A domain is atomic if elements of the domain are considered to be ____________ units.",
+        "10": "The tuples of the relations can be of ________ order."
     },
     {
         "1": {
-            "a": "Psychic",
-            "b": "Dark",
-            "c": "Dragon",
-            "d": "Ground"
+            "a": "Tables",
+            "b": "Fields",
+            "c": "Records",
+            "d": "Keys"
         },
         "2": {
-            "a": "Rainbow Wing",
-            "b": "Lustrous Orb",
-            "c": "Silver Wing",
-            "d": "Sacred Ash"
+            "a": "Column",
+            "b": "Key",
+            "c": "Row",
+            "d": "Entry"
         },
         "3": {
-            "a": "Wonder Guard",
-            "b": "Huge Power",
-            "c": "Protean",
-            "d": "Slow Start"
+            "a": "Attribute",
+            "b": "Tuple",
+            "c": "Field",
+            "d": "Instance"
         },
         "4": {
-            "a": "Heatran",
-            "b": "Darkrai",
-            "c": "Azelf",
-            "d": "Palkia"
+            "a": "Record",
+            "b": "Column",
+            "c": "Tuple",
+            "d": "Key"
         },
         "5": {
-            "a": "Ghost",
-            "b": "Dark",
-            "c": "Psychic",
-            "d": "Fighting"
+            "a": "Domain",
+            "b": "Relation",
+            "c": "Set",
+            "d": "Schema"
         },
         "6": {
-            "a": "Torrent",
-            "b": "Protean",
-            "c": "Rain Dish",
-            "d": "Battle Bond"
+            "a": "Instance, Schema",
+            "b": "Relation, Schema",
+            "c": "Relation, Domain",
+            "d": "Schema, Instance"
         },
         "7": {
-            "a": "Stone Edge",
-            "b": "Counter",
-            "c": "Splintered Stormshards",
-            "d": "Continental Crush"
+            "a": "Candidate key",
+            "b": "Sub key",
+            "c": "Super key",
+            "d": "Foreign key"
         },
         "8": {
-            "a": "Deep Sea Tooth",
-            "b": "Deep Sea Scale",
-            "c": "Water Stone",
-            "d": "Sun Stone"
+            "a": "NAME",
+            "b": "ID",
+            "c": "CITY",
+            "d": "CITY, ID"
         },
         "9": {
-            "a": "Rock and Water",
-            "b": "Water",
-            "c": "Water and Ice",
-            "d": "Ice"
+            "a": "Different",
+            "b": "Indivisbile",
+            "c": "Constant",
+            "d": "Divisible"
         },
         "10": {
-            "a": "Fissure",
-            "b": "Guillotine",
-            "c": "Sheer Cold",
-            "d": "Brave Bird"
+            "a": "Any",
+            "b": "Same",
+            "c": "Sorted",
+            "d": "Constant"
         }
     },
     {
-        "1": "Dark",
-        "2": "Silver Wing",
-        "3": "Slow Start",
-        "4": "Darkrai",
-        "5": "Ghost",
-        "6": "Rain Dish",
-        "7": "Counter",
-        "8": "Deep Sea Scale",
-        "9": "Rock and Water",
-        "10": "Brave Bird"
+        "1": "Tables",
+        "2": "Row",
+        "3": "Tuple",
+        "4": "Column",
+        "5": "Domain",
+        "6": "Schema, Instance",
+        "7": "Super key",
+        "8": "ID",
+        "9": "Indivisbile",
+        "10": "Any"
     }
 ]

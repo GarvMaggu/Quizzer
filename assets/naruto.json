@@ -1,88 +1,88 @@
 [
-    {
-        "1": "What is the full name of the Third Hokage?",
-        "2": "On obtaining what, can Medical Ninjas discard the 3 Primary Clauses?",
-        "3": "Naruto got his name from?",
-        "4": "Which Ninken did Kakashi summon most frequently throughout the series?",
-        "5": "What Ability/Skill did Konan have?",
-        "6": "What is the Red Spiral symbol on the Jonin flak jackets reminiscent of?",
-        "7": "Which Bijuu could use the Lava(Fire + Earth) element?",
-        "8": "Name the Akatsuki member who looked like a shark, could transform into a shark and died to sharks?",
-        "9": "Who named Tsunade, Jiraiya and Orochimaru as the Legendary Sannin?",
-        "10": "Who holds the title of 'The Legendary Queen of Gluttony' at Ichiraku's Ramen shop?"
+    {   
+        "1": "What is operating system?",
+        "2": "To access the services of operating system, the interface is provided by the ___________",
+        "3": "Which one of the following is not true?",
+        "4": "Which one of the following error will be handle by the operating system?",
+        "5": "What is the main function of the command interpreter?",
+        "6": "By operating system, the resource management can be done via __________",
+        "7": "If a process fails, most operating system write the error information to a ______",
+        "8": "Which facility dynamically adds probes to a running system, both in user processes and in the kernel?",
+        "9": "Which one of the following is not a real time operating system?",
+        "10": "The OS X has ____________"
     },
     {
         "1": {
-            "a": "Sarutobi Hiruzen",
-            "b": "Shimura Danzo",
-            "c": "The Professor",
-            "d": "Sarutobi Asuma"
+            "a": "collection of programs that manages hardware resources",
+            "b": "system service provider to the application programs",
+            "c": "link to interface the hardware and application programs",
+            "d": "all of the mentioned"
         },
         "2": {
-            "a": "Insanely Strong Teammates",
-            "b": "The Hyakugo Seal",
-            "c": "The Edo-Tensei summoning Jutsu",
-            "d": "The Chibaku Tensei Seal"
+            "a": "System calls",
+            "b": "API",
+            "c": "Library",
+            "d": "Assembly instructions"
         },
         "3": {
-            "a": "Fish Cake Rolls(the ones with pink spirals) used in Ramen",
-            "b": "The Uzumaki clan's Head",
-            "c": "The Protagonist of 'The Tale of the Utterly Gutsy Ninja'",
-            "d": "The Third Hokage"
+            "a": "kernel is the program that constitutes the central core of the operating system",
+            "b": "kernel is the first part of operating system to load into memory during booting",
+            "c": "kernel is made of various modules which can not be loaded in running operating system",
+            "d": "kernel remains in the memory during the entire computer session"
         },
         "4": {
-            "a": "Bull",
-            "b": "Bisuke",
-            "c": "Pakkun",
-            "d": "Urushi"
+            "a": "power failure",
+            "b": "lack of paper in printer",
+            "c": "connection failure in the network",
+            "d": "all of the mentioned"
         },
         "5": {
-            "a": "The Rinnegan",
-            "b": "Dust Release Technique",
-            "c": "Kenjutsu",
-            "d": "Paper Manipulation"
+            "a": "to get and execute the next user-specified command",
+            "b": "to provide the interface between the API and application program",
+            "c": "to handle the files in operating system",
+            "d": "none of the mentioned"
         },
         "6": {
-            "a": "The Fire Country",
-            "b": "The Uzumaki Crest",
-            "c": "Konohagakure Village",
-            "d": "The Uchiha Crest"
+            "a": "time division multiplexing",
+            "b": "space division multiplexing",
+            "c": "time and space division multiplexing",
+            "d": "none of the mentioned"
         },
         "7": {
-            "a": "Kokuo",
-            "b": "Isobu",
-            "c": "Chomei",
-            "d": "Son Goku"
+            "a": "log file",
+            "b": "another running process",
+            "c": "new file",
+            "d": "none of the mentioned"
         },
         "8": {
-            "a": "Kyusuke",
-            "b": "Deidara",
-            "c": "Kakuzu",
-            "d": "Hoshigaki Kisame"
+            "a": "DTrace",
+            "b": "DLocate",
+            "c": "DMap",
+            "d": "DAdd"
         },
         "9": {
-            "a": "Oni no Hanzo",
-            "b": "Sarutobi Hiruzen",
-            "c": "Sanshouo no Hanzo",
-            "d": "Hattori Hanzo"
+            "a": "VxWorks",
+            "b": "Windows CE",
+            "c": "RTLinux",
+            "d": "Palm OS"
         },
         "10": {
-            "a": "Sakura",
-            "b": "Hinata",
-            "c": "Temari",
-            "d": "Karui"
+            "a": "monolithic kernel",
+            "b": "hybrid kernel",
+            "c": "microkernel",
+            "d": "monolithic kernel with modules"
         }
     },
     {
-        "1": "Sarutobi Hiruzen",
-        "2": "The Hyakugo Seal",
-        "3": "The Protagonist of 'The Tale of the Utterly Gutsy Ninja'",
-        "4": "Pakkun",
-        "5": "Paper Manipulation",
-        "6": "The Uzumaki Crest",
-        "7": "Son Goku",
-        "8": "Hoshigaki Kisame",
-        "9": "Sanshouo no Hanzo",
-        "10": "Hinata"
+        "1": "all of the mentioned",
+        "2": "System calls",
+        "3": "kernel is made of various modules which can not be loaded in running operating system",
+        "4": "all of the mentioned",
+        "5": "to get and execute the next user-specified command",
+        "6": "time and space division multiplexing",
+        "7": "log file",
+        "8": "DTrace",
+        "9": "Palm OS",
+        "10": "hybrid kernel"
     }
 ]
