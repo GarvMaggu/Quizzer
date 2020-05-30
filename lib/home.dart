@@ -103,6 +103,7 @@ class _homepageState extends State<homepage> {
         title: Text(
           "Hello, 189301000",
         ),
+        centerTitle: true,
       ),
       
       body: 
